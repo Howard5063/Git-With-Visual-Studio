@@ -16,5 +16,10 @@ namespace GitVSTest
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("第一次異動並推送");
+        }
     }
 }
