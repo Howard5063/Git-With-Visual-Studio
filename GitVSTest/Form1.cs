@@ -20,6 +20,7 @@ namespace GitVSTest
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("第一次異動並推送");
+            MessageBox.Show("下載GitHub上的專案，第二次異動並推送");
         }
     }
 }
