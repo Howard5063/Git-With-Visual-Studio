@@ -21,6 +21,7 @@ namespace GitVSTest
         {
             MessageBox.Show("第一次異動並推送");
             MessageBox.Show("下載GitHub上的專案，第二次異動並推送");
+            MessageBox.Show("模擬合作夥伴同時進行修改");
         }
     }
 }
