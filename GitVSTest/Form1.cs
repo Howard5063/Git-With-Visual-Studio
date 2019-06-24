@@ -26,7 +26,7 @@ namespace GitVSTest
             //MessageBox.Show("解決衝突後，進行第四次推送");
             //MessageBox.Show("回復上一次commit狀態");
 
-            MessageBox.Show("ver3");
+            MessageBox.Show("分支-ver1");
 
 
         }
