@@ -28,6 +28,7 @@ namespace GitVSTest
 
             MessageBox.Show("分支-ver1");
             MessageBox.Show("分支-ver2");
+            MessageBox.Show("分支-ver3");
 
 
         }
