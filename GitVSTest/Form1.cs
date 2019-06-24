@@ -27,6 +27,7 @@ namespace GitVSTest
             //MessageBox.Show("回復上一次commit狀態");
 
             MessageBox.Show("分支-ver1");
+            MessageBox.Show("分支-ver2");
 
 
         }
